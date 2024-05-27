@@ -1,0 +1,16 @@
+#root {
+
+  
+}
+.navaa{
+  color: white;
+  text-decoration: none;
+}
+nav{
+  max-width: 1920px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-shadow: 2px 2px 2px black;
+  gap: 1.0rem;
+}
